@@ -1,0 +1,31 @@
+{
+  "name": "pyramis",
+  "version": "1.0.0",
+  "description": "Directory-like data storage with subtree changes listening capabilities.",
+  "main": "pyramis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyFromHell/pyramis.git"
+  },
+  "keywords": [
+    "directory",
+    "tree",
+    "subtree",
+    "changes",
+    "event",
+    "listening",
+    "path"
+  ],
+  "author": "Sergey Fedotov",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/SergeyFromHell/pyramis/issues"
+  },
+  "homepage": "https://github.com/SergeyFromHell/pyramis#readme",
+  "dependencies": {
+    "eventemitter3": "^3.0.1"
+  }
+}
